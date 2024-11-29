@@ -100,6 +100,16 @@ int main() {
         if (verificar_fim(player1) == 1) {
             mostrar();
             printf("Parabéns! Player 1 (%c) venceu!\n", player1);
+            printf("          ___________\n");
+            printf("         '._==_==_=_.\n");
+            printf("         .-\\:      /-.\n");
+            printf("        | (|:.     |) |\n");
+            printf("         '-|:.     |-'\n");
+            printf("           \\::.    /\n");
+            printf("            '::. .'\n");
+            printf("              ) (\n");
+            printf("            _.' '._\n");
+            printf("           `\"\"\"\"\"\"\"`\n");
             break;
         } else if (verificar_fim(player1) == 2) {
             mostrar();
@@ -115,6 +125,16 @@ int main() {
         if (verificar_fim(player2) == 1) {
             mostrar();
             printf("Parabens! Player 2 (%c) venceu!\n", player2);
+            printf("          ___________\n");
+            printf("         '._==_==_=_.\n");
+            printf("         .-\\:      /-.\n");
+            printf("        | (|:.     |) |\n");
+            printf("         '-|:.     |-'\n");
+            printf("           \\::.    /\n");
+            printf("            '::. .'\n");
+            printf("              ) (\n");
+            printf("            _.' '._\n");
+            printf("           `\"\"\"\"\"\"\"`\n");
             break;
         } else if (verificar_fim(player2) == 2) {
             mostrar();
